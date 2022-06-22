@@ -1,0 +1,335 @@
+*************************************************************
+FileName = LiPoBattery.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Pad Master
+      File : LiPoBattery.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : LiPoBattery.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D45
+    D46
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : LiPoBattery.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : LiPoBattery.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : LiPoBattery.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : LiPoBattery.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : LiPoBattery.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : LiPoBattery.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : LiPoBattery.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : LiPoBattery.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+    D13
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : LiPoBattery.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D13
+    D15
+    D56
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : LiPoBattery.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : LiPoBattery.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : LiPoBattery.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D45
+    D46
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : LiPoBattery.GM7
+
+    Adding Layer      : Mechanical 7
+
+
+Used DCodes :
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 6
+      File : LiPoBattery.GM6
+
+    Adding Layer      : Mechanical 6
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : LiPoBattery.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : LiPoBattery.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D60
+*************************************************************
+

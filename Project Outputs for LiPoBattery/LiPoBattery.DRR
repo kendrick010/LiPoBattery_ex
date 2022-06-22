@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LiPoBattery.PcbDoc   6/15/2022  12:28:39 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LiPoBattery.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.711mm (28mil)                                           Round             9         PTH        63.98mm (2.52inch)
+T2      1.016mm (40mil)                                           Round             4         PTH        25.40mm (1.00inch)
+T3      1.1mm (43mil)                                             Round             6         PTH        64.86mm (2.55inch)
+T4      3mm (118mil)                                              Round             4         PTH        35.56mm (1.40inch)
+T5      3.2mm (126mil)                                            Round             4         PTH        137.16mm (5.40inch)
+T6      1.78mm (70mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              28
+
+Total Processing Time (hh:mm:ss) : 00:00:00
