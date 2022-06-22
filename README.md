@@ -1,3 +1,3 @@
 # LiPoBattery_ex
 
-LiPo Battery Charger using Altium Designer.
+> Recreation of [Sparkfun's USB LiPoly Charger - Single Cell](https://www.sparkfun.com/products/12711)
